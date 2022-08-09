@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T15:06:34.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KpDXu8EO8711ZzkxcD0V" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T15:07:49.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B8EYGRbhq3ZKf4S64sxh" version="20.2.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2062" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -274,6 +274,12 @@
             <mxPoint x="269" y="880" as="sourcePoint" />
             <mxPoint x="379" y="880" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fIijTl1DXWi8sYGw8VQp-51" value="快递公司推送" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=11;fontColor=#000000;strokeColor=#999999;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="220" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fIijTl1DXWi8sYGw8VQp-52" value="KDN主动拉取" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=11;fontColor=#000000;strokeColor=#999999;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="820" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
