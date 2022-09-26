@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T09:34:25.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dD71GVDtboF25EDBQmNJ" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T09:40:21.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QRkvHNRyz1uQ-ql_PKF-" version="20.3.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7baba1c4bc27f4b0-2" value="kdniaoprod" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="391" y="80" width="172.5" height="1000" as="geometry" />
+          <mxGeometry x="391" y="80" width="99" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="120" as="geometry" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="rxbN5MNjVXDGj4OOCgE7-19" value="1、下单结果=false，修改失败，下单结果=true，则修改成功，即使取消KDN001失败，取消失败KDN001微信群通知+后台轮询取消" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7baba1c4bc27f4b0-2">
           <mxGeometry x="-80" y="310" width="252.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rxbN5MNjVXDGj4OOCgE7-58" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry x="99" y="740" width="750" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-3" value="logisticsex" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="551" y="80" width="100" height="1000" as="geometry" />
@@ -59,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-4" value="Kafka" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="691" y="80" width="99" height="1000" as="geometry" />
+          <mxGeometry x="691" y="80" width="149" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="rxbN5MNjVXDGj4OOCgE7-8" value="修改订单消息" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;entryX=0.1;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-4">
           <mxGeometry relative="1" as="geometry">
@@ -111,6 +114,9 @@
         </mxCell>
         <mxCell id="rxbN5MNjVXDGj4OOCgE7-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-4">
           <mxGeometry x="-94" y="630" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rxbN5MNjVXDGj4OOCgE7-57" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;strokeWidth=1;fontColor=#33FF33;" vertex="1" parent="7baba1c4bc27f4b0-4">
+          <mxGeometry x="110" y="684" width="31" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-5" value="gw" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="831" y="80" width="100" height="1000" as="geometry" />
@@ -245,7 +251,7 @@
         <mxCell id="rxbN5MNjVXDGj4OOCgE7-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="597" y="638" width="10" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="rxbN5MNjVXDGj4OOCgE7-46" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;strike&gt;修改成功&lt;/strike&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;dashed=1;" edge="1" parent="1" target="rxbN5MNjVXDGj4OOCgE7-32">
+        <mxCell id="rxbN5MNjVXDGj4OOCgE7-46" value="&lt;font color=&quot;#ff0000&quot;&gt;修改成功&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;dashed=1;" edge="1" parent="1" target="rxbN5MNjVXDGj4OOCgE7-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="608" y="650" as="sourcePoint" />
             <mxPoint x="1075" y="651" as="targetPoint" />
@@ -254,17 +260,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rxbN5MNjVXDGj4OOCgE7-54" value="&lt;font color=&quot;#33ff33&quot;&gt;修改失败&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="rxbN5MNjVXDGj4OOCgE7-46">
-          <mxGeometry x="0.2109" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rxbN5MNjVXDGj4OOCgE7-49" value="&lt;font color=&quot;#ff0000&quot;&gt;修改成功&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="608" y="728" as="sourcePoint" />
             <mxPoint x="1157" y="729" as="targetPoint" />
             <Array as="points">
               <mxPoint x="528" y="729" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxbN5MNjVXDGj4OOCgE7-55" value="1、改动点：取消失败则返回修改结果为失败，并且取消原订单" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1212" y="490" width="252.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rxbN5MNjVXDGj4OOCgE7-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="595" y="836" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="rxbN5MNjVXDGj4OOCgE7-60" value="&lt;font color=&quot;#ff0000&quot;&gt;修改成功&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="606" y="848" as="sourcePoint" />
+            <mxPoint x="1155" y="849" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="526" y="849" />
             </Array>
           </mxGeometry>
         </mxCell>
