@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T08:34:13.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="C1RZ5YhruZmt6miZYSrW" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T08:36:22.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="UMEzw4e-oNIWlLOAFvKA" version="20.3.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" background="none" math="0" shadow="0">
       <root>
@@ -106,8 +106,20 @@
         <mxCell id="7baba1c4bc27f4b0-6" value="front" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="820" y="80" width="100" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-7" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="960" y="80" width="100" height="580" as="geometry" />
+        <mxCell id="rxbN5MNjVXDGj4OOCgE7-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-6">
+          <mxGeometry x="45" y="370" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rxbN5MNjVXDGj4OOCgE7-28" value="下单结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryX=0.9;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-85" y="410.0899999999999" as="targetPoint" />
+            <mxPoint x="40" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxbN5MNjVXDGj4OOCgE7-30" value="&lt;font color=&quot;#ff0000&quot;&gt;KDN001取消&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;" edge="1" parent="7baba1c4bc27f4b0-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-83" y="440" as="sourcePoint" />
+            <mxPoint x="42" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-8" value="openapi" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="80" width="100" height="580" as="geometry" />
@@ -149,9 +161,6 @@
         <mxCell id="7baba1c4bc27f4b0-45" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="820" y="30" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-46" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="960" y="30" width="100" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="rxbN5MNjVXDGj4OOCgE7-3" value="提交结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryX=0.9;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="294" y="286.0899999999999" as="targetPoint" />
@@ -177,6 +186,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="456" y="544.988" as="targetPoint" />
             <mxPoint x="718.5" y="547.0899999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxbN5MNjVXDGj4OOCgE7-27" value="&lt;font color=&quot;#ff0000&quot;&gt;KDN002下单&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="736" y="460" as="sourcePoint" />
+            <mxPoint x="870" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxbN5MNjVXDGj4OOCgE7-29" value="取消结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryX=0.9;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="736" y="548.0899999999999" as="targetPoint" />
+            <mxPoint x="861" y="548" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
