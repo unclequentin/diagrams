@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T05:57:05.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="x_UhQdW8zBhBe8DtMKrs" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T06:02:23.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="eCxBNziTAzEDHu_EWuNi" version="20.3.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -45,6 +45,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-84" y="203" as="targetPoint" />
             <mxPoint x="41" y="203" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxbN5MNjVXDGj4OOCgE7-10" value="修改订单消息" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;entryX=0.1;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="280.02" as="sourcePoint" />
+            <mxPoint x="46" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-5" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
