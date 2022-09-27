@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T06:18:04.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-MKUp0td2rSxmMS6pKCJ" version="20.3.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-27T06:18:25.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="6q4i0xwjF41seSDTaHf0" version="20.3.6" type="github" pages="4">
   <diagram name="合单流程" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" background="none" math="0" shadow="0">
       <root>
@@ -357,7 +357,7 @@
         <mxCell id="ODGzRqrR5mls3RwIGWWN-19" value="DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="ODGzRqrR5mls3RwIGWWN-1">
           <mxGeometry x="691" y="80" width="99" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="ODGzRqrR5mls3RwIGWWN-20" value="修改订单消息" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;entryX=0.1;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ODGzRqrR5mls3RwIGWWN-19">
+        <mxCell id="ODGzRqrR5mls3RwIGWWN-20" value="写入异常数据" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;entryX=0.1;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ODGzRqrR5mls3RwIGWWN-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-82" y="178" as="sourcePoint" />
             <mxPoint x="44" y="177.98000000000002" as="targetPoint" />
@@ -381,7 +381,7 @@
         <mxCell id="ODGzRqrR5mls3RwIGWWN-50" value="业务处理" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="ODGzRqrR5mls3RwIGWWN-1">
           <mxGeometry x="551" y="30" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ODGzRqrR5mls3RwIGWWN-51" value="消息中间件" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="ODGzRqrR5mls3RwIGWWN-1">
+        <mxCell id="ODGzRqrR5mls3RwIGWWN-51" value="数据库" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="ODGzRqrR5mls3RwIGWWN-1">
           <mxGeometry x="691" y="30" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ODGzRqrR5mls3RwIGWWN-52" value="渠道网关" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="ODGzRqrR5mls3RwIGWWN-1">
