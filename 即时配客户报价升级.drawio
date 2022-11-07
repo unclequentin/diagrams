@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T11:11:54.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6AWu8SieVvPAC-SqEAOt" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-07T11:24:12.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yyXyqdOhgqkvLAmSKaZa" version="20.5.1" type="github" pages="3">
   <diagram id="QycHmyGR_p74RsCH7QnW" name="第 1 页">
     <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1050" pageHeight="1500" math="0" shadow="0">
       <root>
@@ -117,6 +117,23 @@
             <mxPoint x="455" y="327.99999999999994" as="targetPoint" />
             <mxPoint x="590" y="328" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="25SymAjO9Q_c1vfEnRwP" name="第 3 页">
+    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1050" pageHeight="1500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_3S8o2LxIH1YmkrSLKJ9-1" value="OrderFeeManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="490" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_3S8o2LxIH1YmkrSLKJ9-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="_3S8o2LxIH1YmkrSLKJ9-1">
+          <mxGeometry y="26" width="490" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="_3S8o2LxIH1YmkrSLKJ9-4" value="+ calcMarkupTimeFee(BigDecimal totalWeight, BigDecimal totalDistance, &#xa;CommonPrice commonPrice): OrderFeeResult &#xa;+ calcMarkupWeightFee(BigDecimal totalWeight, BigDecimal totalDistance,&#xa;CommonPrice commonPrice): OrderFeeResult &#xa;+ calcMarkupDistanceFee(BigDecimal totalWeight, BigDecimal totalDistance,&#xa;CommonPrice commonPrice): OrderFeeResult &#xa;+ calcMarkupTotalFee(BigDecimal totalWeight, BigDecimal totalDistance,&#xa;CommonPrice commonPrice): OrderFeeResult " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_3S8o2LxIH1YmkrSLKJ9-1">
+          <mxGeometry y="70" width="490" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
