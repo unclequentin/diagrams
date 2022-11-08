@@ -1,26 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T11:24:12.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yyXyqdOhgqkvLAmSKaZa" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-08T08:19:13.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="K_dbCHkmBzxcQJPlcJ_Z" version="20.5.1" type="github" pages="3">
   <diagram id="QycHmyGR_p74RsCH7QnW" name="第 1 页">
     <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1050" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jem7c5btDTgbE0Fb3J0T-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="230" width="130" height="400" as="geometry" />
+          <mxGeometry x="210" y="230" width="130" height="450" as="geometry" />
         </mxCell>
         <mxCell id="jem7c5btDTgbE0Fb3J0T-3" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="245" y="195" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jem7c5btDTgbE0Fb3J0T-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="230" width="130" height="400" as="geometry" />
+          <mxGeometry x="420" y="230" width="130" height="450" as="geometry" />
         </mxCell>
         <mxCell id="jem7c5btDTgbE0Fb3J0T-5" value="处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="455" y="195" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jem7c5btDTgbE0Fb3J0T-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="230" width="130" height="400" as="geometry" />
+          <mxGeometry x="650" y="230" width="130" height="450" as="geometry" />
         </mxCell>
         <mxCell id="jem7c5btDTgbE0Fb3J0T-7" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="685" y="195" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aZYBHgDc5u8nVvh01Gzh-2" value="客户信息" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aZYBHgDc5u8nVvh01Gzh-3" value="报价URL" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aZYBHgDc5u8nVvh01Gzh-4" value="报价版本" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aZYBHgDc5u8nVvh01Gzh-5" value="有效期" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="470" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aZYBHgDc5u8nVvh01Gzh-6" value="报价方式" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="540" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aZYBHgDc5u8nVvh01Gzh-7" value="报价分类" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="220" y="600" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aZYBHgDc5u8nVvh01Gzh-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
