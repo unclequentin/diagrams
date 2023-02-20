@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T03:59:13.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jqowfk4B2ECF4U78cWH9" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T03:59:35.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="VpmAIO7AZxTty94OFTZB" version="20.8.20" type="github">
   <diagram name="第 1 页" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="1341" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="aEe4_rK6smSB3npgo4rP-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="800" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aEe4_rK6smSB3npgo4rP-4" value="业务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aEe4_rK6smSB3npgo4rP-4" value="&lt;b&gt;业务&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="365" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aEe4_rK6smSB3npgo4rP-5" value="下单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="aEe4_rK6smSB3npgo4rP-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="487" width="800" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="aEe4_rK6smSB3npgo4rP-21" value="领域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aEe4_rK6smSB3npgo4rP-21" value="&lt;b&gt;领域&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="565.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aEe4_rK6smSB3npgo4rP-29" value="下单前" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
         <mxCell id="aEe4_rK6smSB3npgo4rP-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="724" width="800" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="aEe4_rK6smSB3npgo4rP-55" value="基础能力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aEe4_rK6smSB3npgo4rP-55" value="&lt;b&gt;基础能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="791.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aEe4_rK6smSB3npgo4rP-56" value="API鉴权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -100,7 +100,7 @@
         <mxCell id="aEe4_rK6smSB3npgo4rP-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="910" width="800" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="aEe4_rK6smSB3npgo4rP-69" value="生态平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aEe4_rK6smSB3npgo4rP-69" value="&lt;b&gt;生态平台&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="942.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aEe4_rK6smSB3npgo4rP-70" value="下单服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
