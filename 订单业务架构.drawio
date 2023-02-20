@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T08:24:19.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ASvzmzaww2KYPIg7CUWb" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-20T08:37:15.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hXS2oB2OB3ywIUDdkOQV" version="20.8.20" type="github" pages="2">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="1341" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
         <mxCell id="mPJyU34l--d6cSRBEXeq-2" value="&lt;b&gt;业务&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="365" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-3" value="开户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="mPJyU34l--d6cSRBEXeq-3" value="账户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-4" value="下单、消费" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
