@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T08:00:52.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EAQTXXsFh0VZH3RhsgtL" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-20T08:12:34.397Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qQYSF06xDYoiH5KzRvu7" version="20.8.20" type="github" pages="2">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="1341" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -233,6 +233,9 @@
             <mxRectangle x="300" y="480" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mPJyU34l--d6cSRBEXeq-63" value="授信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mPJyU34l--d6cSRBEXeq-52">
+          <mxGeometry x="190" y="95" width="80" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-55" value="SSO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="897.5" width="80" height="40" as="geometry" />
         </mxCell>
@@ -250,6 +253,12 @@
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-60" value="开票" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="897" y="575" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJyU34l--d6cSRBEXeq-61" value="预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="707.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJyU34l--d6cSRBEXeq-62" value="查询账单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="707.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
