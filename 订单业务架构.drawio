@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T07:53:23.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Dw73kM5SLjpn2GNCGqiG" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-20T07:57:22.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="O07f1IMjwjOOBWYAR03q" version="20.8.20" type="github" pages="2">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="1341" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -195,26 +195,11 @@
         <mxCell id="mPJyU34l--d6cSRBEXeq-18" value="&lt;b&gt;基础能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="747.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-19" value="API鉴权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="707.5" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-20" value="状态拉取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="410" y="707.5" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-21" value="推送" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="508" y="707.5" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-22" value="消费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-27" value="短信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="609" y="707.5" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-28" value="提现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="520" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-30" value="任务调度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="707.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-31" value="账单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="808" y="520" width="80" height="40" as="geometry" />
@@ -224,27 +209,6 @@
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-33" value="&lt;b&gt;依赖&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="902.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-38" value="分布式锁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="808" y="707.5" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-39" value="分布式事务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="905" y="707.5" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-40" value="日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="766" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-41" value="轨迹" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="410" y="766" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-42" value="计费" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="508" y="765" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-43" value="错误码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="606" y="766" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-44" value="支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="766" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-45" value="活动、消费券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="575" width="80" height="40" as="geometry" />
@@ -274,6 +238,12 @@
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-56" value="统一认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="897.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJyU34l--d6cSRBEXeq-57" value="先寄后付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="897.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJyU34l--d6cSRBEXeq-58" value="微信支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="897.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
