@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T07:38:15.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bs_u-FTjAPh_kWfvfmUh" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-21T07:42:00.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="j95QmdeSs_k-jeowi5ZL" version="20.2.3" type="github" pages="2">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="942" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -261,7 +261,7 @@
         <mxCell id="mPJyU34l--d6cSRBEXeq-46" value="预付计费" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="810" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-49" value="报价" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mPJyU34l--d6cSRBEXeq-49" value="报价" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="810" y="632" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wQvJToRmjjCWO-xYzvZU-1" value="流量计费" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
