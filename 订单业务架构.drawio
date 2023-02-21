@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T08:36:34.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CYEHjMW9Yi_eJPNE2MvZ" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-21T08:37:47.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yuFRiFLOh8NyBJgfUUBF" version="20.2.3" type="github" pages="2">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="942" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -286,7 +286,10 @@
           <mxGeometry x="1229" y="575" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYx9xtARvo46gpEjHub8-16" value="应收应付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="1320" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bYx9xtARvo46gpEjHub8-17" value="账单消息&lt;br&gt;（邮件、短信）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="578.5" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
