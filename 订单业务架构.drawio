@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T06:37:52.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DogV3UttO0lLWqmwkdOC" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-21T06:38:19.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mHlGg_retuaTP6PO3fqb" version="20.2.3" type="github" pages="2">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="942" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
         <mxCell id="mPJyU34l--d6cSRBEXeq-18" value="&lt;b&gt;基础能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="865.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-28" value="提现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;" parent="1" vertex="1">
+        <mxCell id="mPJyU34l--d6cSRBEXeq-28" value="提现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;shadow=0;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="520" width="112" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
