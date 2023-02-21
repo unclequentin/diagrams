@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T06:47:50.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="x1KEsUDhuMPxCz5fkndv" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-21T06:51:10.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-lvEk7RpeMtP5AcUiq-B" version="20.2.3" type="github" pages="2">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="942" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
           <mxGeometry x="312" y="520" width="138" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-11" value="账户操作&lt;br&gt;（冻、解、注、绑）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;glass=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="520" width="115" height="40" as="geometry" />
+          <mxGeometry x="460" y="520" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-15" value="业务管理&lt;br&gt;（分类、基础数据）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="575" width="130" height="40" as="geometry" />
@@ -190,7 +190,7 @@
           <mxGeometry x="230" y="865.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-28" value="提现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;shadow=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="583" y="640" width="112" height="40" as="geometry" />
+          <mxGeometry x="600" y="640" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="200" y="966" width="800" height="95" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry x="230" y="998.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-45" value="账户配置&lt;br&gt;（计费规则、基础）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="597" y="575" width="113" height="40" as="geometry" />
+          <mxGeometry x="600" y="578.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-48" value="审批" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="828" width="80" height="40" as="geometry" />
@@ -262,13 +262,16 @@
           <mxGeometry y="95" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYx9xtARvo46gpEjHub8-3" value="充值购买&lt;br&gt;（账户充值）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="640" width="110" height="40" as="geometry" />
+          <mxGeometry x="312" y="640" width="138" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYx9xtARvo46gpEjHub8-5" value="账户操作&lt;br&gt;（冻、解、注、绑）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="520" width="130" height="40" as="geometry" />
+          <mxGeometry x="599" y="520" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYx9xtARvo46gpEjHub8-6" value="账户授信&lt;br&gt;（授信配置、关联）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="575" width="138" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bYx9xtARvo46gpEjHub8-7" value="账户流水查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="640" width="134" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
