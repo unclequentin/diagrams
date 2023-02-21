@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T07:45:07.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pbU478YlyhIv6TGmJOQb" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-21T07:45:32.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gcF5DdbCgDZgZ1IOK96a" version="20.2.3" type="github" pages="2">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="942" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -270,7 +270,7 @@
         <mxCell id="bYx9xtARvo46gpEjHub8-14" value="消息中心&lt;br&gt;（短信、邮件）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="828" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mPJyU34l--d6cSRBEXeq-12" value="运营分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="mPJyU34l--d6cSRBEXeq-12" value="售后" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1196" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mPJyU34l--d6cSRBEXeq-14" value="统计" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
