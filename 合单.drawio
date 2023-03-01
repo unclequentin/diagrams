@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T07:31:50.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QCx9mrLyTqtz4A95012O" version="20.8.21" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-01T07:36:40.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sBeA7m8nXDBMO332XvcK" version="20.8.21" type="github" pages="7">
   <diagram name="合单流程" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="954" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" background="none" math="0" shadow="0">
       <root>
@@ -532,6 +532,30 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1KXakaPBRnoMCTIeSyZt-1" value="&lt;font color=&quot;#000000&quot;&gt;计费产品&lt;br&gt;&lt;br&gt;唯一标识&lt;br&gt;&lt;br&gt;联系方式&lt;br&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="100" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1KXakaPBRnoMCTIeSyZt-2" value="&lt;font color=&quot;#000000&quot;&gt;输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="180" y="85" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1KXakaPBRnoMCTIeSyZt-3" value="&lt;font color=&quot;#000000&quot;&gt;账户名规则&lt;br&gt;&lt;br&gt;校验&lt;br&gt;&lt;br&gt;生成账户&lt;br&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="100" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1KXakaPBRnoMCTIeSyZt-4" value="处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="365" y="85" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1KXakaPBRnoMCTIeSyZt-5" value="&lt;font color=&quot;#000000&quot;&gt;账户唯一标识&lt;br&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="100" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1KXakaPBRnoMCTIeSyZt-6" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="545" y="85" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1KXakaPBRnoMCTIeSyZt-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;strokeWidth=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="267" y="219" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1KXakaPBRnoMCTIeSyZt-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;strokeWidth=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="219" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
