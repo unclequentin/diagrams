@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T07:03:57.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4RNwOIczwp_HeByGW1mt" version="20.8.21" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-01T07:04:22.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="moA7A4SQCgKQCtmsqF0a" version="20.8.21" type="github" pages="6">
   <diagram name="合单流程" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="954" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" background="none" math="0" shadow="0">
       <root>
@@ -500,6 +500,30 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="l8pwdriFSpaJLvWI9LUe-1" value="&lt;font color=&quot;#000000&quot;&gt;产品配置&lt;br&gt;&lt;br&gt;账户类型&lt;br&gt;&lt;br&gt;计费规则配置&lt;br&gt;&lt;br&gt;账单规则配置&lt;br&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="100" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="l8pwdriFSpaJLvWI9LUe-2" value="&lt;font color=&quot;#000000&quot;&gt;输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="180" y="85" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l8pwdriFSpaJLvWI9LUe-3" value="&lt;font color=&quot;#000000&quot;&gt;校验&lt;br&gt;&lt;br&gt;新增&lt;br&gt;&lt;br&gt;修改&lt;br&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="100" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="l8pwdriFSpaJLvWI9LUe-4" value="处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="365" y="85" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l8pwdriFSpaJLvWI9LUe-5" value="&lt;font color=&quot;#000000&quot;&gt;有效产品&lt;br&gt;&lt;br&gt;有效账户类型&lt;br&gt;&lt;br&gt;有效计费规则&lt;br&gt;&lt;br&gt;有效账单规则&lt;br&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="100" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="l8pwdriFSpaJLvWI9LUe-6" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="545" y="85" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l8pwdriFSpaJLvWI9LUe-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;strokeWidth=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="267" y="219" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l8pwdriFSpaJLvWI9LUe-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;strokeWidth=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="219" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
