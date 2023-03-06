@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T01:51:37.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GNr2Dbne15kxhccXrjKQ" version="20.8.22" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-06T01:53:54.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="V3YtVGyo6Dy5DU7SLTQb" version="20.8.22" type="github" pages="4">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="1341" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -391,6 +391,12 @@
         </mxCell>
         <mxCell id="_8dD_bQpWsN8pUc5eDYx-16" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="194" width="590" height="426" as="geometry" />
+        </mxCell>
+        <mxCell id="_8dD_bQpWsN8pUc5eDYx-17" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="324" as="sourcePoint" />
+            <mxPoint x="485" y="324" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
