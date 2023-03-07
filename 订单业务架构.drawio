@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T03:50:44.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="VdgWm7q3V9WYTesC4E2G" version="21.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-07T03:57:23.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oi86R_5tTJ15wafKxTHq" version="21.0.2" type="github" pages="8">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="1341" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -517,28 +517,28 @@
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-0" />
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-1" parent="5TXTVaXI5GITgXkIJ2Hs-0" />
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-2" value="即时配" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" parent="5TXTVaXI5GITgXkIJ2Hs-1" vertex="1">
-          <mxGeometry x="250" y="234" width="100" height="696" as="geometry" />
+          <mxGeometry x="250" y="234" width="100" height="576" as="geometry" />
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" parent="5TXTVaXI5GITgXkIJ2Hs-2" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-4" value="计费服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="5TXTVaXI5GITgXkIJ2Hs-1" vertex="1">
-          <mxGeometry x="440" y="234" width="100" height="696" as="geometry" />
+          <mxGeometry x="440" y="234" width="100" height="576" as="geometry" />
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="5TXTVaXI5GITgXkIJ2Hs-4" vertex="1">
           <mxGeometry x="45" y="155" width="10" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="5TXTVaXI5GITgXkIJ2Hs-4" vertex="1">
-          <mxGeometry x="45" y="366" width="10" height="214" as="geometry" />
+          <mxGeometry x="45" y="297" width="10" height="214" as="geometry" />
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-7" value="配置管理服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="5TXTVaXI5GITgXkIJ2Hs-1" vertex="1">
-          <mxGeometry x="650" y="234" width="100" height="706" as="geometry" />
+          <mxGeometry x="650" y="234" width="100" height="566" as="geometry" />
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-9" value="账户服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="5TXTVaXI5GITgXkIJ2Hs-1" vertex="1">
-          <mxGeometry x="840" y="234" width="100" height="706" as="geometry" />
+          <mxGeometry x="840" y="234" width="100" height="566" as="geometry" />
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="5TXTVaXI5GITgXkIJ2Hs-9" vertex="1">
-          <mxGeometry x="45" y="526" width="10" height="64" as="geometry" />
+          <mxGeometry x="45" y="416" width="10" height="64" as="geometry" />
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="5TXTVaXI5GITgXkIJ2Hs-1" vertex="1">
           <mxGeometry x="285" y="160" width="25" height="34" as="geometry" />
@@ -556,33 +556,36 @@
           <mxGeometry x="485" y="444" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="5TXTVaXI5GITgXkIJ2Hs-1" vertex="1">
-          <mxGeometry x="490" y="660" width="10" height="60" as="geometry" />
+          <mxGeometry x="490" y="543" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-22" value="写入流水" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="5TXTVaXI5GITgXkIJ2Hs-1" target="5TXTVaXI5GITgXkIJ2Hs-21" edge="1">
           <mxGeometry x="-0.0588" y="5" relative="1" as="geometry">
-            <mxPoint x="495" y="660" as="sourcePoint" />
+            <mxPoint x="495" y="543" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="525" y="690" />
+              <mxPoint x="525" y="573" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="5TXTVaXI5GITgXkIJ2Hs-1" vertex="1">
-          <mxGeometry x="490" y="745" width="10" height="40" as="geometry" />
+          <mxGeometry x="490" y="616" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-24" value="账户操作" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="5TXTVaXI5GITgXkIJ2Hs-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="495" y="745" as="sourcePoint" />
+            <mxPoint x="495" y="616" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="525" y="775" />
+              <mxPoint x="525" y="646" />
             </Array>
-            <mxPoint x="500" y="775" as="targetPoint" />
+            <mxPoint x="500" y="646" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5TXTVaXI5GITgXkIJ2Hs-25" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="5TXTVaXI5GITgXkIJ2Hs-1" target="5TXTVaXI5GITgXkIJ2Hs-10" edge="1">
+        <mxCell id="5TXTVaXI5GITgXkIJ2Hs-25" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="5TXTVaXI5GITgXkIJ2Hs-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="495" y="800" as="sourcePoint" />
-            <mxPoint x="675" y="800" as="targetPoint" />
+            <mxPoint x="497" y="667" as="sourcePoint" />
+            <mxPoint x="882" y="667" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="797" y="667" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5TXTVaXI5GITgXkIJ2Hs-26" value="增加余额、扣减余额" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5TXTVaXI5GITgXkIJ2Hs-25" vertex="1" connectable="0">
@@ -614,7 +617,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GtLdt_3CDqfx028JvaUb-1" value="1、账户类型匹配&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、账户余额充足&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;direction=west;align=center;" parent="5TXTVaXI5GITgXkIJ2Hs-1" vertex="1">
-          <mxGeometry x="300" y="450" width="180" height="86" as="geometry" />
+          <mxGeometry x="308" y="450" width="180" height="86" as="geometry" />
         </mxCell>
         <mxCell id="2lThJ5j7uMsAjUaXeRD6-0" value="验证账户" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="5TXTVaXI5GITgXkIJ2Hs-1">
           <mxGeometry x="-0.0588" y="5" relative="1" as="geometry">
