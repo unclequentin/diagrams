@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T03:48:38.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-s1dPcHqc6CASHqHI2NT" version="21.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-07T03:49:24.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zPd_7CjFH2ZRxcHFudnz" version="21.0.2" type="github" pages="8">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="1341" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -614,7 +614,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GtLdt_3CDqfx028JvaUb-1" value="1、账户类型匹配&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、账户余额充足&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;direction=west;align=center;" parent="5TXTVaXI5GITgXkIJ2Hs-1" vertex="1">
-          <mxGeometry x="260" y="454" width="180" height="86" as="geometry" />
+          <mxGeometry x="300" y="450" width="180" height="86" as="geometry" />
         </mxCell>
         <mxCell id="2lThJ5j7uMsAjUaXeRD6-0" value="验证账户" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="5TXTVaXI5GITgXkIJ2Hs-1">
           <mxGeometry x="-0.0588" y="5" relative="1" as="geometry">
