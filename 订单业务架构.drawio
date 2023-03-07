@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T06:22:00.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="i2YBqv76cgYq9I3kPcMq" version="21.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-07T06:22:09.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oZFJOhdsX2kp_0dJBOA8" version="21.0.2" type="github" pages="8">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="1341" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -730,12 +730,13 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NW3byJorQlUy551A8J_k-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="5TXTVaXI5GITgXkIJ2Hs-1">
-          <mxGeometry x="485" y="905" width="10" height="75" as="geometry" />
+          <mxGeometry x="485" y="905" width="10" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="NW3byJorQlUy551A8J_k-13" value="写入异常日志&lt;br&gt;（原始记录+异常信息）" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="5TXTVaXI5GITgXkIJ2Hs-1">
+        <mxCell id="NW3byJorQlUy551A8J_k-13" value="写入异常日志&lt;br&gt;（原始记录+异常信息）" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="5TXTVaXI5GITgXkIJ2Hs-1" target="NW3byJorQlUy551A8J_k-12">
           <mxGeometry x="-0.0588" y="5" relative="1" as="geometry">
             <mxPoint x="495" y="910" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="525" y="910" />
               <mxPoint x="525" y="940" />
             </Array>
             <mxPoint as="offset" />
