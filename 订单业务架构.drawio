@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T05:46:39.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="48eh5FJZyLCcYwikTTLw" version="21.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-07T05:48:02.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="G-TqoKVEJ5ifz6gsWZrV" version="21.0.2" type="github" pages="8">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="954" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -593,8 +593,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S0anK6beWpN7x_T9oJDX-1" value="&lt;b&gt;指定账户&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5TXTVaXI5GITgXkIJ2Hs-1" vertex="1">
-          <mxGeometry x="421" y="327" width="70" height="30" as="geometry" />
+        <mxCell id="S0anK6beWpN7x_T9oJDX-1" value="&lt;b&gt;【指定账户】&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5TXTVaXI5GITgXkIJ2Hs-1" vertex="1">
+          <mxGeometry x="406" y="327" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S0anK6beWpN7x_T9oJDX-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="5TXTVaXI5GITgXkIJ2Hs-1" vertex="1">
           <mxGeometry x="885" y="350" width="10" height="30" as="geometry" />
@@ -652,6 +652,18 @@
           <mxGeometry x="-0.0615" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1bjXcHwzOx8SAKlBBoba-0" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;entryX=1.005;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5TXTVaXI5GITgXkIJ2Hs-1" target="5TXTVaXI5GITgXkIJ2Hs-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421" y="530" as="sourcePoint" />
+            <mxPoint x="581" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bjXcHwzOx8SAKlBBoba-1" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1bjXcHwzOx8SAKlBBoba-0">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1bjXcHwzOx8SAKlBBoba-2" value="&lt;b&gt;【非指定】&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5TXTVaXI5GITgXkIJ2Hs-1">
+          <mxGeometry x="416" y="530" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
