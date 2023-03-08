@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T03:21:15.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0b1RZQRxnC5i-4tVd92I" version="21.0.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-03-08T03:27:32.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="29QSIQW5JyenjhgLA3xh" version="21.0.2" type="github" pages="11">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
-    <mxGraphModel dx="954" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
+    <mxGraphModel dx="1341" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -908,26 +908,26 @@
     </mxGraphModel>
   </diagram>
   <diagram name="即时配计费" id="JwijRIDnnf0wo7NXbfN9">
-    <mxGraphModel dx="191" dy="122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" background="#E6E6E6" math="0" shadow="0">
+    <mxGraphModel dx="1341" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="t2HM3sMYLLH_s22Eoaqh-0" />
         <mxCell id="t2HM3sMYLLH_s22Eoaqh-1" parent="t2HM3sMYLLH_s22Eoaqh-0" />
-        <mxCell id="t2HM3sMYLLH_s22Eoaqh-2" value="即时配" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="t2HM3sMYLLH_s22Eoaqh-1">
+        <mxCell id="t2HM3sMYLLH_s22Eoaqh-2" value="即时配" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" parent="t2HM3sMYLLH_s22Eoaqh-1" vertex="1">
           <mxGeometry x="250" y="234" width="100" height="456" as="geometry" />
         </mxCell>
-        <mxCell id="t2HM3sMYLLH_s22Eoaqh-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="t2HM3sMYLLH_s22Eoaqh-2">
+        <mxCell id="t2HM3sMYLLH_s22Eoaqh-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" parent="t2HM3sMYLLH_s22Eoaqh-2" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="8hpMgI1GtzU87uEPf88N-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="t2HM3sMYLLH_s22Eoaqh-2">
+        <mxCell id="8hpMgI1GtzU87uEPf88N-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" parent="t2HM3sMYLLH_s22Eoaqh-2" vertex="1">
           <mxGeometry x="45" y="226" width="10" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="t2HM3sMYLLH_s22Eoaqh-4" value="计费服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t2HM3sMYLLH_s22Eoaqh-1">
+        <mxCell id="t2HM3sMYLLH_s22Eoaqh-4" value="计费服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="t2HM3sMYLLH_s22Eoaqh-1" vertex="1">
           <mxGeometry x="441" y="234" width="100" height="456" as="geometry" />
         </mxCell>
-        <mxCell id="t2HM3sMYLLH_s22Eoaqh-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t2HM3sMYLLH_s22Eoaqh-4">
+        <mxCell id="t2HM3sMYLLH_s22Eoaqh-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="t2HM3sMYLLH_s22Eoaqh-4" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="t2HM3sMYLLH_s22Eoaqh-6" value="出账、扣减账户" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="t2HM3sMYLLH_s22Eoaqh-4">
+        <mxCell id="t2HM3sMYLLH_s22Eoaqh-6" value="出账、扣减账户" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="t2HM3sMYLLH_s22Eoaqh-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="111" as="sourcePoint" />
             <Array as="points">
@@ -937,41 +937,41 @@
             <mxPoint x="55" y="177" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hpMgI1GtzU87uEPf88N-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t2HM3sMYLLH_s22Eoaqh-4">
+        <mxCell id="8hpMgI1GtzU87uEPf88N-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="t2HM3sMYLLH_s22Eoaqh-4" vertex="1">
           <mxGeometry x="45" y="226" width="10" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="t2HM3sMYLLH_s22Eoaqh-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="t2HM3sMYLLH_s22Eoaqh-1">
+        <mxCell id="t2HM3sMYLLH_s22Eoaqh-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="t2HM3sMYLLH_s22Eoaqh-1" vertex="1">
           <mxGeometry x="285" y="160" width="25" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="t2HM3sMYLLH_s22Eoaqh-8" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="t2HM3sMYLLH_s22Eoaqh-1">
+        <mxCell id="t2HM3sMYLLH_s22Eoaqh-8" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="t2HM3sMYLLH_s22Eoaqh-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="324" as="sourcePoint" />
             <mxPoint x="485" y="324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t2HM3sMYLLH_s22Eoaqh-9" value="下单、加小费" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t2HM3sMYLLH_s22Eoaqh-8">
+        <mxCell id="t2HM3sMYLLH_s22Eoaqh-9" value="下单、加小费" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="t2HM3sMYLLH_s22Eoaqh-8" vertex="1" connectable="0">
           <mxGeometry x="-0.2111" y="-4" relative="1" as="geometry">
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t2HM3sMYLLH_s22Eoaqh-14" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=0.4;exitY=0.892;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="t2HM3sMYLLH_s22Eoaqh-1">
+        <mxCell id="t2HM3sMYLLH_s22Eoaqh-14" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=0.4;exitY=0.892;exitDx=0;exitDy=0;exitPerimeter=0;" parent="t2HM3sMYLLH_s22Eoaqh-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="486" y="429.96000000000004" as="sourcePoint" />
             <mxPoint x="304" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hpMgI1GtzU87uEPf88N-2" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="t2HM3sMYLLH_s22Eoaqh-1">
+        <mxCell id="8hpMgI1GtzU87uEPf88N-2" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="t2HM3sMYLLH_s22Eoaqh-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="470.19" as="sourcePoint" />
             <mxPoint x="485" y="470.19" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hpMgI1GtzU87uEPf88N-3" value="取消/虚假揽件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8hpMgI1GtzU87uEPf88N-2">
+        <mxCell id="8hpMgI1GtzU87uEPf88N-3" value="取消/虚假揽件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="8hpMgI1GtzU87uEPf88N-2" vertex="1" connectable="0">
           <mxGeometry x="-0.2111" y="-4" relative="1" as="geometry">
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pXU4pFHXncSPGLpG2I42-2" value="出账、扣减账户" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="t2HM3sMYLLH_s22Eoaqh-1" target="8hpMgI1GtzU87uEPf88N-1">
+        <mxCell id="pXU4pFHXncSPGLpG2I42-2" value="出账、扣减账户" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="t2HM3sMYLLH_s22Eoaqh-1" target="8hpMgI1GtzU87uEPf88N-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="460" as="sourcePoint" />
             <Array as="points">
@@ -981,7 +981,7 @@
             <mxPoint x="490" y="526" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pXU4pFHXncSPGLpG2I42-3" value="入账、增加账户" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="t2HM3sMYLLH_s22Eoaqh-1">
+        <mxCell id="pXU4pFHXncSPGLpG2I42-3" value="入账、增加账户" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="t2HM3sMYLLH_s22Eoaqh-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="493" y="505" as="sourcePoint" />
             <Array as="points">
@@ -991,7 +991,97 @@
             <mxPoint x="499" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pXU4pFHXncSPGLpG2I42-4" value="当不产生惩罚金额时，出账明细按0元扣减" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="t2HM3sMYLLH_s22Eoaqh-1">
+        <mxCell id="pXU4pFHXncSPGLpG2I42-4" value="当不产生惩罚金额时，出账明细按0元扣减" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="t2HM3sMYLLH_s22Eoaqh-1" vertex="1">
+          <mxGeometry x="670" y="430" width="80" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="充值" id="x6MW8DgmU_UR5ug3qwJx">
+    <mxGraphModel dx="1341" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" background="#E6E6E6" math="0" shadow="0">
+      <root>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-0" />
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-1" parent="HuYHlsBsScKVnyPkRyRc-0" />
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-2" value="即时配" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HuYHlsBsScKVnyPkRyRc-1">
+          <mxGeometry x="250" y="234" width="100" height="456" as="geometry" />
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HuYHlsBsScKVnyPkRyRc-2">
+          <mxGeometry x="45" y="80" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HuYHlsBsScKVnyPkRyRc-2">
+          <mxGeometry x="45" y="226" width="10" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-5" value="计费服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HuYHlsBsScKVnyPkRyRc-1">
+          <mxGeometry x="441" y="234" width="100" height="456" as="geometry" />
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HuYHlsBsScKVnyPkRyRc-5">
+          <mxGeometry x="45" y="80" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-7" value="出账、扣减账户" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="HuYHlsBsScKVnyPkRyRc-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="111" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="111" />
+              <mxPoint x="80" y="177" />
+            </Array>
+            <mxPoint x="55" y="177" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HuYHlsBsScKVnyPkRyRc-5">
+          <mxGeometry x="45" y="226" width="10" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HuYHlsBsScKVnyPkRyRc-1">
+          <mxGeometry x="285" y="160" width="25" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-10" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="HuYHlsBsScKVnyPkRyRc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="324" as="sourcePoint" />
+            <mxPoint x="485" y="324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-11" value="下单、加小费" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HuYHlsBsScKVnyPkRyRc-10">
+          <mxGeometry x="-0.2111" y="-4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-12" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=0.4;exitY=0.892;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="HuYHlsBsScKVnyPkRyRc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="486" y="429.96000000000004" as="sourcePoint" />
+            <mxPoint x="304" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-13" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="HuYHlsBsScKVnyPkRyRc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="470.19" as="sourcePoint" />
+            <mxPoint x="485" y="470.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-14" value="取消/虚假揽件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HuYHlsBsScKVnyPkRyRc-13">
+          <mxGeometry x="-0.2111" y="-4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-15" value="出账、扣减账户" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="HuYHlsBsScKVnyPkRyRc-1" target="HuYHlsBsScKVnyPkRyRc-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="560" y="460" />
+              <mxPoint x="560" y="490" />
+            </Array>
+            <mxPoint x="490" y="526" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-16" value="入账、增加账户" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="HuYHlsBsScKVnyPkRyRc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="505" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="563" y="505" />
+              <mxPoint x="563" y="535" />
+            </Array>
+            <mxPoint x="499" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuYHlsBsScKVnyPkRyRc-17" value="当不产生惩罚金额时，出账明细按0元扣减" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="HuYHlsBsScKVnyPkRyRc-1">
           <mxGeometry x="670" y="430" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
