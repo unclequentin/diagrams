@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T12:13:03.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7ikzjrqDZr7PjXRDB0mT" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-12T12:20:37.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="mVM9BL-Ical_ra0X1LI4" version="21.1.7" type="github" pages="3">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1341" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1341" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,7 +96,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-1 的副本" id="4hg6F2vFtD7_7h2gZxns">
-    <mxGraphModel dx="1341" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1341" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="1OYm-rZ2bbMsDLSTkXB--0" />
         <mxCell id="1OYm-rZ2bbMsDLSTkXB--1" parent="1OYm-rZ2bbMsDLSTkXB--0" />
@@ -204,6 +204,44 @@
         </mxCell>
         <mxCell id="1OYm-rZ2bbMsDLSTkXB--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" edge="1" parent="1OYm-rZ2bbMsDLSTkXB--2" source="1OYm-rZ2bbMsDLSTkXB--25" target="1OYm-rZ2bbMsDLSTkXB--11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ut9EoubrjI1ebRrbbgLI" name="第 3 页">
+    <mxGraphModel dx="1341" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z_uPyNCzf6nOOf_IbNFa-1" value="物品类型名称&lt;br&gt;&lt;br&gt;物品类型编码&lt;br&gt;&lt;br&gt;物品类型状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="120" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uPyNCzf6nOOf_IbNFa-2" value="新增/修改/查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="120" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uPyNCzf6nOOf_IbNFa-3" value="有效物品类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="120" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uPyNCzf6nOOf_IbNFa-4" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="195" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uPyNCzf6nOOf_IbNFa-5" value="处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="195" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uPyNCzf6nOOf_IbNFa-6" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="195" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uPyNCzf6nOOf_IbNFa-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="380" as="sourcePoint" />
+            <mxPoint x="360" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z_uPyNCzf6nOOf_IbNFa-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="380" as="sourcePoint" />
+            <mxPoint x="580" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
