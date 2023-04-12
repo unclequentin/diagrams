@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T12:10:29.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5hLD8BIi6GWPHBZiD3Q8" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-12T12:11:24.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="eY_SSCtzIhVOzPAe6S35" version="21.1.7" type="github" pages="2">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1341" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -28,14 +28,11 @@
         <mxCell id="2b4e8129b02d487f-3" value="KDN-EX" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
           <mxGeometry y="170" width="680" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="cXyiy-AwKJkyrSfhlRhQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-3" source="cXyiy-AwKJkyrSfhlRhQ-1" target="cXyiy-AwKJkyrSfhlRhQ-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cXyiy-AwKJkyrSfhlRhQ-1" value="映射数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="2b4e8129b02d487f-3">
-          <mxGeometry x="110" y="51" width="90" height="39" as="geometry" />
+          <mxGeometry x="240" y="52.75" width="90" height="39" as="geometry" />
         </mxCell>
         <mxCell id="cXyiy-AwKJkyrSfhlRhQ-2" value="筛选物品类型" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" vertex="1" parent="2b4e8129b02d487f-3">
-          <mxGeometry x="240" y="51" width="80" height="39" as="geometry" />
+          <mxGeometry x="120" y="52.75" width="80" height="39" as="geometry" />
         </mxCell>
         <mxCell id="cXyiy-AwKJkyrSfhlRhQ-4" value="存在映射？" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=rhombusPerimeter;background=gateway;outline=none;symbol=parallelGw;rounded=1;shadow=0;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-3">
           <mxGeometry x="370" y="52.75" width="50" height="35.5" as="geometry" />
@@ -65,6 +62,12 @@
               <mxPoint x="395" y="120" />
               <mxPoint x="395" y="120" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vy70RR6y7A3GXflHRzFj-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="70" as="sourcePoint" />
+            <mxPoint x="250" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2b4e8129b02d487f-4" value="KDN渠道" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
