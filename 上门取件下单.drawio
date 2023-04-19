@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T07:06:41.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="X9mKmoA7Q0GtjmHIH1kM" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T07:07:56.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-JwJtmqmaql882Hgr35t" version="21.1.7" type="github">
   <diagram name="下单" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1122" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x_i1yC-ZUW30OdBs2FN7-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;失败loop轮询&lt;br style=&quot;font-size: 11px;&quot;&gt;下一个渠道SF-D&lt;/font&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="x_i1yC-ZUW30OdBs2FN7-4">
+        <mxCell id="x_i1yC-ZUW30OdBs2FN7-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;失败loop轮询&lt;br style=&quot;font-size: 11px;&quot;&gt;下一个渠道SF-D，走下单流程&lt;/font&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="x_i1yC-ZUW30OdBs2FN7-4">
           <mxGeometry x="0.1382" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
