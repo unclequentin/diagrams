@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T05:45:44.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="L5YXHbFceodlXiYwY1sd" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T05:52:08.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Qs8BitsTwIyMAI_3uQf6" version="21.1.7" type="github">
   <diagram name="下单" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="954" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="734" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
             <mxPoint x="315" y="502" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oqzg1-_yG6DZoDls_i9h-3" value="筛选渠道" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="7baba1c4bc27f4b0-3" edge="1">
+        <mxCell id="Oqzg1-_yG6DZoDls_i9h-3" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff3333&quot;&gt;筛选渠道&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（智能调度）&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="7baba1c4bc27f4b0-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="510" as="sourcePoint" />
             <mxPoint x="55" y="533" as="targetPoint" />
@@ -193,14 +193,15 @@
         <mxCell id="XC6BqRoF2bmVDiK8bHI7-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="685" y="460" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XC6BqRoF2bmVDiK8bHI7-32" value="筛选渠道" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="XC6BqRoF2bmVDiK8bHI7-32" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;筛选渠道&lt;br&gt;（智能调度）&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" edge="1">
+          <mxGeometry x="0.0063" relative="1" as="geometry">
             <mxPoint x="696" y="461" as="sourcePoint" />
             <mxPoint x="696" y="499" as="targetPoint" />
             <Array as="points">
               <mxPoint x="756.5" y="461" />
               <mxPoint x="756.5" y="499" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XC6BqRoF2bmVDiK8bHI7-33" value="下单结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;curved=1;" parent="1" edge="1">
