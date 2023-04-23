@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T09:11:45.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vyl4FKFeZEdniXC415Vr" version="21.1.8" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-04-23T09:13:21.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Y5TwQNT-Kxk-ag6l1227" version="21.1.8" type="github" pages="12">
   <diagram name="上门取件业务" id="aHkgy0jFgQmC0n2R5i_t">
     <mxGraphModel dx="1341" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
@@ -1367,7 +1367,7 @@
         <mxCell id="t8g-2wkZmtn7N8dpfcQE-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="230" y="785" width="800" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="t8g-2wkZmtn7N8dpfcQE-33" value="&lt;b&gt;生态平台&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t8g-2wkZmtn7N8dpfcQE-33" value="&lt;b&gt;数据层&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="817.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t8g-2wkZmtn7N8dpfcQE-34" value="下单服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
@@ -1411,6 +1411,21 @@
         </mxCell>
         <mxCell id="t8g-2wkZmtn7N8dpfcQE-47" value="KDN新运营后台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t8g-2wkZmtn7N8dpfcQE-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="910" width="800" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="t8g-2wkZmtn7N8dpfcQE-49" value="&lt;b&gt;数据库&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="942.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t8g-2wkZmtn7N8dpfcQE-50" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="360" y="937.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t8g-2wkZmtn7N8dpfcQE-51" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="480" y="937.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t8g-2wkZmtn7N8dpfcQE-52" value="ES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="600" y="937.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
