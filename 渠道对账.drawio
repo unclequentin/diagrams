@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T10:22:59.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ymQ5n_opPPowxXJAygSx" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T10:26:24.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="USeTl05WcuoozS1ZpmLQ" version="21.2.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="账单同步">
-    <mxGraphModel dx="925" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1341" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,10 +75,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uPmhdonnpwf8vEVmP7HE-37" value="生成账单（实时同步）" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="125" width="480" height="510" as="geometry" />
+          <mxGeometry x="650" y="121" width="480" height="460" as="geometry" />
         </mxCell>
         <mxCell id="uPmhdonnpwf8vEVmP7HE-38" value="KDN-OnlineRecord&lt;br&gt;KDN后台&lt;br&gt;（3.0）" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="uPmhdonnpwf8vEVmP7HE-37">
-          <mxGeometry x="20" width="460" height="240" as="geometry">
+          <mxGeometry x="20" width="460" height="180" as="geometry">
             <mxRectangle x="20" width="760" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -100,17 +100,22 @@
         <mxCell id="uPmhdonnpwf8vEVmP7HE-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uPmhdonnpwf8vEVmP7HE-38" source="uPmhdonnpwf8vEVmP7HE-55" target="uPmhdonnpwf8vEVmP7HE-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uPmhdonnpwf8vEVmP7HE-63" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uPmhdonnpwf8vEVmP7HE-61">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uPmhdonnpwf8vEVmP7HE-55" value="揽件后取消" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="uPmhdonnpwf8vEVmP7HE-38">
-          <mxGeometry x="240" y="37.5" width="80" height="45" as="geometry" />
+          <mxGeometry x="231" y="37.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="uPmhdonnpwf8vEVmP7HE-43" value="对账服务" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="uPmhdonnpwf8vEVmP7HE-37">
-          <mxGeometry x="20" y="240" width="460" height="120" as="geometry" />
+          <mxGeometry x="20" y="180" width="460" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="uPmhdonnpwf8vEVmP7HE-44" value="生成记账单" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="uPmhdonnpwf8vEVmP7HE-43">
+        <mxCell id="uPmhdonnpwf8vEVmP7HE-44" value="删除记账单" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="uPmhdonnpwf8vEVmP7HE-43">
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uPmhdonnpwf8vEVmP7HE-45" value="对账服务DB" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="uPmhdonnpwf8vEVmP7HE-37">
-          <mxGeometry x="20" y="360" width="460" height="150" as="geometry" />
+          <mxGeometry x="20" y="300" width="460" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uPmhdonnpwf8vEVmP7HE-46" value="bill202303" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="uPmhdonnpwf8vEVmP7HE-45">
           <mxGeometry x="270" y="10" width="79" height="50" as="geometry" />
@@ -145,8 +150,13 @@
         <mxCell id="uPmhdonnpwf8vEVmP7HE-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="uPmhdonnpwf8vEVmP7HE-37" source="uPmhdonnpwf8vEVmP7HE-55" target="uPmhdonnpwf8vEVmP7HE-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uPmhdonnpwf8vEVmP7HE-58" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uPmhdonnpwf8vEVmP7HE-57">
+        <mxCell id="uPmhdonnpwf8vEVmP7HE-58" value="http/kafka" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uPmhdonnpwf8vEVmP7HE-57">
           <mxGeometry x="-0.2594" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPmhdonnpwf8vEVmP7HE-64" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uPmhdonnpwf8vEVmP7HE-57">
+          <mxGeometry x="-0.8831" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
