@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T10:26:24.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="USeTl05WcuoozS1ZpmLQ" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T10:30:41.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wtQGEcz5yJmphlLDahuL" version="21.2.1" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="账单同步">
     <mxGraphModel dx="1341" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,6 +158,90 @@
         <mxCell id="uPmhdonnpwf8vEVmP7HE-64" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uPmhdonnpwf8vEVmP7HE-57">
           <mxGeometry x="-0.8831" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="批量同步" id="1HKuSVUm4XMBrAjjWWTS">
+    <mxGraphModel dx="1341" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-0" />
+        <mxCell id="tuBkKpJriEfIXOlk1lql-1" parent="tuBkKpJriEfIXOlk1lql-0" />
+        <mxCell id="tuBkKpJriEfIXOlk1lql-2" value="生成账单（实时同步）" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-1">
+          <mxGeometry x="120" y="120" width="480" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-3" value="KDN-OnlineRecord&lt;br&gt;KDN后台&lt;br&gt;（3.0）" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-2">
+          <mxGeometry x="20" width="460" height="280" as="geometry">
+            <mxRectangle x="20" width="760" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tuBkKpJriEfIXOlk1lql-3" source="tuBkKpJriEfIXOlk1lql-5" target="tuBkKpJriEfIXOlk1lql-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-3">
+          <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nqFa1gGSp5sG5U1PI1oJ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tuBkKpJriEfIXOlk1lql-3" source="tuBkKpJriEfIXOlk1lql-6" target="nqFa1gGSp5sG5U1PI1oJ-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-6" value="生成账单" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-3">
+          <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-3">
+          <mxGeometry x="350" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nqFa1gGSp5sG5U1PI1oJ-0" value="获取已揽件未签收订单（数据分段）" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-3">
+          <mxGeometry x="120" y="134" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-8" value="对账服务" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-2">
+          <mxGeometry x="20" y="280" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-9" value="生成记账单" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-8">
+          <mxGeometry x="120" y="24" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-10" value="对账服务DB" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-2">
+          <mxGeometry x="20" y="400" width="460" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-11" value="bill202303" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-10">
+          <mxGeometry x="270" y="10" width="79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-12" value="bill202304" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-10">
+          <mxGeometry x="270" y="62" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-13" value="bill202305" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-10">
+          <mxGeometry x="270" y="102" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-14" value="分表策略" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-10">
+          <mxGeometry x="120" y="52.5" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tuBkKpJriEfIXOlk1lql-10" target="tuBkKpJriEfIXOlk1lql-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="82" as="sourcePoint" />
+            <mxPoint x="240" y="82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="tuBkKpJriEfIXOlk1lql-2" source="nqFa1gGSp5sG5U1PI1oJ-0" target="tuBkKpJriEfIXOlk1lql-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="210" as="sourcePoint" />
+            <mxPoint x="310" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-17" value="http/mq" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tuBkKpJriEfIXOlk1lql-16">
+          <mxGeometry x="-0.2923" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tuBkKpJriEfIXOlk1lql-2" source="tuBkKpJriEfIXOlk1lql-9" target="tuBkKpJriEfIXOlk1lql-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="290" as="sourcePoint" />
+            <mxPoint x="230" y="290" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuBkKpJriEfIXOlk1lql-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="tuBkKpJriEfIXOlk1lql-2" source="tuBkKpJriEfIXOlk1lql-9" target="tuBkKpJriEfIXOlk1lql-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
