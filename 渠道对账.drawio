@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T09:22:27.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="W_GFXRxroTufaXNLZMUw" version="21.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-25T09:23:32.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VEg6D0L8qCR6h18ppXKn" version="21.2.1" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="账单同步">
     <mxGraphModel dx="1341" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -312,6 +312,9 @@
         <mxCell id="MEDfaf7UgnIksed4jdG8-8" value="微服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="521" y="620" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MEDfaf7UgnIksed4jdG8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MEDfaf7UgnIksed4jdG8-9" target="MEDfaf7UgnIksed4jdG8-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MEDfaf7UgnIksed4jdG8-9" value="账单服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="491" y="650" width="120" height="40" as="geometry" />
         </mxCell>
@@ -373,6 +376,12 @@
         </mxCell>
         <mxCell id="MEDfaf7UgnIksed4jdG8-29" value="kdniaomonitor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="715" y="421" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="MEDfaf7UgnIksed4jdG8-30" value="账单数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="751" y="645" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MEDfaf7UgnIksed4jdG8-33" value="账单数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="805" y="645" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
