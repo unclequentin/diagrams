@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T09:25:45.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_RuMGJ7IiSm_PWCxY0AB" version="21.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-25T09:26:38.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZixAsR_ViER8KMmmJHvy" version="21.2.1" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="账单同步">
     <mxGraphModel dx="1341" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -306,6 +306,9 @@
         <mxCell id="MEDfaf7UgnIksed4jdG8-5" value="oneproxy（4.0网关）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="510" width="600" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="MEDfaf7UgnIksed4jdG8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEDfaf7UgnIksed4jdG8-7" target="MEDfaf7UgnIksed4jdG8-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MEDfaf7UgnIksed4jdG8-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="610" width="600" height="90" as="geometry" />
         </mxCell>
@@ -387,13 +390,19 @@
           <mxGeometry x="260" y="730" width="600" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MEDfaf7UgnIksed4jdG8-35" value="记帐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="739.5" width="90" height="31" as="geometry" />
+          <mxGeometry x="390" y="739.5" width="90" height="31" as="geometry" />
         </mxCell>
         <mxCell id="MEDfaf7UgnIksed4jdG8-36" value="对账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="512.5" y="739.5" width="90" height="31" as="geometry" />
         </mxCell>
         <mxCell id="MEDfaf7UgnIksed4jdG8-37" value="查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="739.5" width="90" height="31" as="geometry" />
+          <mxGeometry x="640" y="739.5" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="MEDfaf7UgnIksed4jdG8-39" value="应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEDfaf7UgnIksed4jdG8-40" value="支撑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="739.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
