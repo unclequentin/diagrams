@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T09:26:38.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZixAsR_ViER8KMmmJHvy" version="21.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-25T09:27:26.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8OW9RtwgvrIIbYO6wfJ9" version="21.2.1" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="账单同步">
     <mxGraphModel dx="1341" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,7 +253,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="VSIiNz7ixIvT3FdYX_m3" name="第 3 页">
+  <diagram id="VSIiNz7ixIvT3FdYX_m3" name="渠道账单架构">
     <mxGraphModel dx="1118" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2027" pageHeight="1569" math="0" shadow="0">
       <root>
         <mxCell id="0" />
