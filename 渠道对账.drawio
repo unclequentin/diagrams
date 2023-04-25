@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T09:29:00.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="4QbueDHqkW6qUHt_Gk3x" version="21.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-25T09:29:29.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rQObcsE_3l7UAPsfWhZW" version="21.2.1" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="账单同步">
     <mxGraphModel dx="1341" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,7 +247,7 @@
             <mxPoint x="280" y="244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nqFa1gGSp5sG5U1PI1oJ-3" value="点击生成账单，将未签收但是要统计在账单里数据拉取到" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-1">
+        <mxCell id="nqFa1gGSp5sG5U1PI1oJ-3" value="全量同步：&lt;br&gt;点击生成账单，将未签收但是要统计在账单里数据拉取到" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="tuBkKpJriEfIXOlk1lql-1">
           <mxGeometry x="660" y="124" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
