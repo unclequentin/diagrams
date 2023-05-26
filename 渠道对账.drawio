@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T07:21:42.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6DIxcGSFIaVF58UJyivC" version="21.3.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-26T07:23:11.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UN9npug_sHsNUeVy3evZ" version="21.3.4" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="账单同步">
     <mxGraphModel dx="954" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -433,7 +433,7 @@
         <mxCell id="C6J76EfyK5jAzuscgDF2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C6J76EfyK5jAzuscgDF2-4" target="C6J76EfyK5jAzuscgDF2-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C6J76EfyK5jAzuscgDF2-4" value="获取updateTime&amp;gt;D-1的订单数据" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="C6J76EfyK5jAzuscgDF2-4" value="获取updateTime&amp;gt;D-1的订单数据（数据分批）" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="289" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C6J76EfyK5jAzuscgDF2-6" value="根据订单获取地址、重量、费用" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
