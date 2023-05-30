@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T03:58:42.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="TOc3EdUiXNBAl31Ai7vC" version="21.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-30T03:58:58.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="2vxUFLqdxcwZATL6rbT9" version="21.3.2" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="账单同步">
     <mxGraphModel dx="899" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -508,7 +508,7 @@
         <mxCell id="2Br4TytrVV8Ecjph-AEg-10" value="生成预对账单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2Br4TytrVV8Ecjph-AEg-15" value="1、半月&lt;br&gt;2、按月&lt;br&gt;3、按季度" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="2Br4TytrVV8Ecjph-AEg-15" value="1、半月&lt;br&gt;2、按月&lt;br&gt;3、按季度" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="317" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2Br4TytrVV8Ecjph-AEg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.003;entryY=0.404;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" edge="1" parent="1" source="2Br4TytrVV8Ecjph-AEg-17" target="2Br4TytrVV8Ecjph-AEg-15">
@@ -529,10 +529,10 @@
         <mxCell id="2Br4TytrVV8Ecjph-AEg-19" value="更新账单生效状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="240" y="545" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2Br4TytrVV8Ecjph-AEg-20" value="1、获取某渠道且账单范围结束时间大于当前时间的对账单&lt;br&gt;2、List≤2，生成当前账单或下个周期账单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="2Br4TytrVV8Ecjph-AEg-20" value="1、获取某渠道且账单范围结束时间大于当前时间的对账单&lt;br&gt;2、List≤2，生成当前账单或下个周期账单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="420" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2Br4TytrVV8Ecjph-AEg-23" value="1、是当前对账单，且状态为未生效" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="2Br4TytrVV8Ecjph-AEg-23" value="1、是当前对账单，且状态为未生效" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-10" y="525" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2Br4TytrVV8Ecjph-AEg-27" value="END" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
