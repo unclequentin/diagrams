@@ -146,6 +146,9 @@
         <mxCell id="aIbKxPWljuXMfkVyxfLI-11" value="@Lock4J" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="487" y="278" width="60" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="aIbKxPWljuXMfkVyxfLI-12" value="Redis Cache" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="450" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
