@@ -278,6 +278,9 @@
             <mxPoint x="612.5" y="441" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="L0xVWbQqzOY9SG0yMH2W-55" value="重点问题：&lt;div&gt;1、重算需确认是否可同时改多项可售库存，如（组合A-2件、组合B-3件）？如是：则要变更交互、计算逻辑&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="160" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
