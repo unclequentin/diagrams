@@ -4,13 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_h0k9C9QZ6Pft_GURCV0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="10" width="620" height="580" as="geometry" />
+        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-2" value="ERP-web" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="240" y="80" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="aIbKxPWljuXMfkVyxfLI-2" value="提交结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="aIbKxPWljuXMfkVyxfLI-2" value="提交结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="7baba1c4bc27f4b0-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-81" y="181" as="targetPoint" />
             <Array as="points">
@@ -20,7 +23,7 @@
             <mxPoint x="39" y="181" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIbKxPWljuXMfkVyxfLI-3" value="validateArgs()" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="aIbKxPWljuXMfkVyxfLI-3" value="validateArgs()" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="7baba1c4bc27f4b0-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="130" as="sourcePoint" />
             <mxPoint x="60" y="168" as="targetPoint" />
@@ -30,7 +33,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIbKxPWljuXMfkVyxfLI-10" value="计算结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=1;entryY=0.929;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-2" target="7baba1c4bc27f4b0-9">
+        <mxCell id="aIbKxPWljuXMfkVyxfLI-10" value="计算结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=1;entryY=0.929;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7baba1c4bc27f4b0-2" target="7baba1c4bc27f4b0-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-104.5" y="360" as="targetPoint" />
             <Array as="points">
@@ -60,7 +63,7 @@
         <mxCell id="7baba1c4bc27f4b0-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-3" vertex="1">
           <mxGeometry x="49" y="272" width="10" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="aIbKxPWljuXMfkVyxfLI-4" value="handleCalcStock()" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="7baba1c4bc27f4b0-3">
+        <mxCell id="aIbKxPWljuXMfkVyxfLI-4" value="handleCalcStock()" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="7baba1c4bc27f4b0-3" edge="1">
           <mxGeometry x="0.1581" y="10" relative="1" as="geometry">
             <mxPoint x="60" y="307" as="sourcePoint" />
             <mxPoint x="55" y="345" as="targetPoint" />
@@ -111,19 +114,19 @@
         <mxCell id="7baba1c4bc27f4b0-43" value="三方仓库" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="540" y="30" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="aIbKxPWljuXMfkVyxfLI-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="aIbKxPWljuXMfkVyxfLI-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="20" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aIbKxPWljuXMfkVyxfLI-5" value="handleCalc()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="aIbKxPWljuXMfkVyxfLI-5" value="handleCalc()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="296" y="274" as="sourcePoint" />
             <mxPoint x="446" y="274" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIbKxPWljuXMfkVyxfLI-7" value="1、计算&lt;div&gt;2、修改可售库存&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="aIbKxPWljuXMfkVyxfLI-7" value="1、计算&lt;div&gt;2、修改可售库存&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="320" y="280" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aIbKxPWljuXMfkVyxfLI-8" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0.314;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="aIbKxPWljuXMfkVyxfLI-8" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0.314;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="454" y="317.9000000000001" as="targetPoint" />
             <Array as="points">
@@ -133,7 +136,7 @@
             <mxPoint x="584" y="318" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIbKxPWljuXMfkVyxfLI-9" value="计算结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="aIbKxPWljuXMfkVyxfLI-9" value="计算结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="294" y="440" as="targetPoint" />
             <Array as="points">
@@ -143,10 +146,10 @@
             <mxPoint x="443.5" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIbKxPWljuXMfkVyxfLI-11" value="@Lock4J" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aIbKxPWljuXMfkVyxfLI-11" value="@Lock4J" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="487" y="278" width="60" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="aIbKxPWljuXMfkVyxfLI-12" value="Redis Cache" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aIbKxPWljuXMfkVyxfLI-12" value="Redis Cache" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="450" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
