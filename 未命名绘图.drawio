@@ -462,7 +462,7 @@
         <mxCell id="4xK6FWgY33E4YS57xi-u-0" />
         <mxCell id="4xK6FWgY33E4YS57xi-u-1" parent="4xK6FWgY33E4YS57xi-u-0" />
         <mxCell id="4xK6FWgY33E4YS57xi-u-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4xK6FWgY33E4YS57xi-u-1">
-          <mxGeometry x="90" y="250" width="1100" height="600" as="geometry" />
+          <mxGeometry x="170" y="250" width="1020" height="590" as="geometry" />
         </mxCell>
         <mxCell id="4xK6FWgY33E4YS57xi-u-3" value="ERP-web" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="4xK6FWgY33E4YS57xi-u-1">
           <mxGeometry x="240" y="348" width="100" height="452" as="geometry" />
