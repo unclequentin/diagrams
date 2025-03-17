@@ -447,6 +447,12 @@
         <mxCell id="2dP2yvHfxA-BUQ6oHwwI-6" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;aaa97bca04983f42387142ebdbc67015&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 0pt; font-family: 等线; font-size: 12pt;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; vertical-align: baseline;&quot; data-font-family=&quot;微软雅黑&quot;&gt;inventory:calculation_lock&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="28sMmF1UvlZlHfzyTmVc-1">
           <mxGeometry x="390" y="430" width="170" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="2dP2yvHfxA-BUQ6oHwwI-7" value="&lt;div style=&quot;font-size: medium; text-align: start; text-wrap-mode: wrap;&quot; data-hash=&quot;0bfed3782e0b9025910d55e032d37d64&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start; text-wrap-mode: wrap;&quot; class=&quot;document&quot;&gt;&lt;div style=&quot;&quot; class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 0pt; font-family: 等线;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; vertical-align: baseline;&quot; data-font-family=&quot;微软雅黑&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;inventory:combination_stock_result:{warehouseId}&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="28sMmF1UvlZlHfzyTmVc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="642.17" as="sourcePoint" />
+            <mxPoint x="890" y="642.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
