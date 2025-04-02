@@ -1,9 +1,198 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="eoQRybvHUCEywt602b9s">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-6" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22nacos%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(64%2C%2072%2C%2091)%3B%20font-family%3A%20-apple-system%2C%20BlinkMacSystemFont%2C%20%26amp%3Bquot%3BSegoe%20UI%26amp%3Bquot%3B%2C%20Helvetica%2C%20Arial%2C%20%26amp%3Bquot%3BApple%20Color%20Emoji%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BSegoe%20UI%20Emoji%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BSegoe%20UI%20Symbol%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BLiberation%20Sans%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BPingFang%20SC%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BMicrosoft%20YaHei%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BHiragino%20Sans%20GB%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BWenquanyi%20Micro%20Hei%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BWenQuanYi%20Zen%20Hei%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BST%20Heiti%26amp%3Bquot%3B%2C%20SimHei%2C%20SimSun%2C%20%26amp%3Bquot%3BWenQuanYi%20Zen%20Hei%20Sharp%26amp%3Bquot%3B%2C%20sans-serif%3B%20font-size%3A%2016px%3B%20text-align%3A%20left%3B%20background-color%3A%20rgb(255%2C%20255%2C%20255)%3B%26quot%3B%26gt%3BAlibaba%20Sentinel%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(64%2C%2072%2C%2091)%3B%20font-family%3A%20-apple-system%2C%20BlinkMacSystemFont%2C%20%26amp%3Bquot%3BSegoe%20UI%26amp%3Bquot%3B%2C%20Helvetica%2C%20Arial%2C%20%26amp%3Bquot%3BApple%20Color%20Emoji%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BSegoe%20UI%20Emoji%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BSegoe%20UI%20Symbol%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BLiberation%20Sans%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BPingFang%20SC%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BMicrosoft%20YaHei%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BHiragino%20Sans%20GB%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BWenquanyi%20Micro%20Hei%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BWenQuanYi%20Zen%20Hei%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BST%20Heiti%26amp%3Bquot%3B%2C%20SimHei%2C%20SimSun%2C%20%26amp%3Bquot%3BWenQuanYi%20Zen%20Hei%20Sharp%26amp%3Bquot%3B%2C%20sans-serif%3B%20font-size%3A%2016px%3B%20text-align%3A%20left%3B%20background-color%3A%20rgb(255%2C%20255%2C%20255)%3B%26quot%3B%26gt%3Bdubbo%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22133.77%22%20y%3D%22351.1%22%20width%3D%2296.23%22%20height%3D%22398.9%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="387" width="1120" height="753" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-1" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; font-weight: 700; background-color: rgb(248, 249, 250);&quot;&gt;WEB/Mobile&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="147" width="1120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-3" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; font-weight: 700; background-color: rgb(248, 249, 250);&quot;&gt;Nginx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="227" width="1120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-5" value="&lt;b style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;springcloud gateway&lt;/b&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;（&lt;span style=&quot;margin: 0px; padding: 0px; background-color: initial;&quot;&gt;xbdengine-gateway&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="307" width="1120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="407" width="70" height="503" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-8" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="407" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-9" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;xbdengine-system&lt;/span&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;用户体系、系统配置&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="417" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-11" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="467" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-12" value="角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="467" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-13" value="配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="467" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-14" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="667" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-15" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;xbdengine-resource&lt;/span&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;资源&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="417" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-16" value="OSS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="467" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-17" value="消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="467" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-18" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="407" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-19" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;xbdengine-auth&lt;/span&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;认证&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="417" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-20" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="467" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-21" value="权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="467" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-22" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="557" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-23" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;xbdengine-supply-chain&lt;/span&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;物流与供应链管理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="567" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-24" value="供应商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="607" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-25" value="物流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="607" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-26" value="库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="607" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-27" value="采购" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="657" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-28" value="计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="657" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-29" value="合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="657" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-30" value="仓储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="707" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-31" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="557" width="310" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-32" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;xbdengine-product&lt;/span&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;产品与类目&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="567" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-33" value="类目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="607" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-34" value="产品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="607" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-35" value="商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="607" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-36" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="557" width="310" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-37" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;xbdengine-order&lt;/span&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;订单与交易&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="567" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-38" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;xbdengine-tools&lt;/span&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;辅助工具&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="677" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-39" value="库存计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="727" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-40" value="订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="607" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-41" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="607" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-42" value="......" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="607" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-43" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="800" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-44" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;xbdengine-bi&lt;/span&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;商业智能&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="810" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-45" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;数据分析与统计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="860" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-46" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;辅助决策&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="860" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-47" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="667" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-48" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;xbdengine-settlement&lt;/span&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;财务与结算&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="677" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-49" value="结算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="727" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-50" value="对账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="727" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-51" value="支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="727" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-52" value="NACOS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="437" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-53" value="&lt;span style=&quot;color: rgb(64, 72, 91); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Wenquanyi Micro Hei&amp;quot;, &amp;quot;WenQuanYi Zen Hei&amp;quot;, &amp;quot;ST Heiti&amp;quot;, SimHei, SimSun, &amp;quot;WenQuanYi Zen Hei Sharp&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Sentinel&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="517" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="950" width="1045" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-55" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="970" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-56" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;公共组件&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="980" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-57" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1030" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-58" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1030" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-59" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="970" width="385" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-60" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;第三方服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655" y="980" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-61" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;易仓API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1015" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-62" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;企业微信API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="1015" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-63" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;合思费控API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1015" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-64" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;法大大API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1060" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-65" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;易达云API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="1060" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-66" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;易可达(谷仓)API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1060" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
