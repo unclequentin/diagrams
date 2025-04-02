@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AcIkoER4r23lt9J2Xqgh-6" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22nacos%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(64%2C%2072%2C%2091)%3B%20font-family%3A%20-apple-system%2C%20BlinkMacSystemFont%2C%20%26amp%3Bquot%3BSegoe%20UI%26amp%3Bquot%3B%2C%20Helvetica%2C%20Arial%2C%20%26amp%3Bquot%3BApple%20Color%20Emoji%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BSegoe%20UI%20Emoji%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BSegoe%20UI%20Symbol%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BLiberation%20Sans%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BPingFang%20SC%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BMicrosoft%20YaHei%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BHiragino%20Sans%20GB%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BWenquanyi%20Micro%20Hei%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BWenQuanYi%20Zen%20Hei%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BST%20Heiti%26amp%3Bquot%3B%2C%20SimHei%2C%20SimSun%2C%20%26amp%3Bquot%3BWenQuanYi%20Zen%20Hei%20Sharp%26amp%3Bquot%3B%2C%20sans-serif%3B%20font-size%3A%2016px%3B%20text-align%3A%20left%3B%20background-color%3A%20rgb(255%2C%20255%2C%20255)%3B%26quot%3B%26gt%3BAlibaba%20Sentinel%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(64%2C%2072%2C%2091)%3B%20font-family%3A%20-apple-system%2C%20BlinkMacSystemFont%2C%20%26amp%3Bquot%3BSegoe%20UI%26amp%3Bquot%3B%2C%20Helvetica%2C%20Arial%2C%20%26amp%3Bquot%3BApple%20Color%20Emoji%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BSegoe%20UI%20Emoji%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BSegoe%20UI%20Symbol%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BLiberation%20Sans%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BPingFang%20SC%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BMicrosoft%20YaHei%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BHiragino%20Sans%20GB%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BWenquanyi%20Micro%20Hei%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BWenQuanYi%20Zen%20Hei%26amp%3Bquot%3B%2C%20%26amp%3Bquot%3BST%20Heiti%26amp%3Bquot%3B%2C%20SimHei%2C%20SimSun%2C%20%26amp%3Bquot%3BWenQuanYi%20Zen%20Hei%20Sharp%26amp%3Bquot%3B%2C%20sans-serif%3B%20font-size%3A%2016px%3B%20text-align%3A%20left%3B%20background-color%3A%20rgb(255%2C%20255%2C%20255)%3B%26quot%3B%26gt%3Bdubbo%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22133.77%22%20y%3D%22351.1%22%20width%3D%2296.23%22%20height%3D%22398.9%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="387" width="1120" height="753" as="geometry" />
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-68" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627" y="407" width="310" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-1" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; font-weight: 700; background-color: rgb(248, 249, 250);&quot;&gt;WEB/Mobile&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="147" width="1120" height="40" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry x="215" y="437" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-53" value="&lt;span style=&quot;color: rgb(64, 72, 91); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Wenquanyi Micro Hei&amp;quot;, &amp;quot;WenQuanYi Zen Hei&amp;quot;, &amp;quot;ST Heiti&amp;quot;, SimHei, SimSun, &amp;quot;WenQuanYi Zen Hei Sharp&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Sentinel&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="517" width="60" height="30" as="geometry" />
+          <mxGeometry x="215" y="860" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="950" width="1045" height="160" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="605" y="970" width="385" height="130" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-60" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;第三方服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="655" y="980" width="210" height="30" as="geometry" />
+          <mxGeometry x="685" y="980" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-61" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;易仓API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1015" width="90" height="30" as="geometry" />
@@ -192,6 +192,21 @@
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-66" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;易可达(谷仓)API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="1060" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-67" value="dubbo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-69" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="800" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-70" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;xbdengine-ai&lt;/span&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;AI创新&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="677" y="810" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-71" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;Copilot&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="860" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-72" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;Agent&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="860" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
