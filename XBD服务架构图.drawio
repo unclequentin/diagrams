@@ -4,14 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="393" width="1120" height="528" as="geometry" />
+        </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-68" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="627" y="407" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AcIkoER4r23lt9J2Xqgh-1" target="AcIkoER4r23lt9J2Xqgh-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-1" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; font-weight: 700; background-color: rgb(248, 249, 250);&quot;&gt;WEB/Mobile&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="147" width="1120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AcIkoER4r23lt9J2Xqgh-3" target="AcIkoER4r23lt9J2Xqgh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-3" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; font-weight: 700; background-color: rgb(248, 249, 250);&quot;&gt;Nginx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="227" width="1120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AcIkoER4r23lt9J2Xqgh-5" target="AcIkoER4r23lt9J2Xqgh-79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-5" value="&lt;b style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;springcloud gateway&lt;/b&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;（&lt;span style=&quot;margin: 0px; padding: 0px; background-color: initial;&quot;&gt;xbdengine-gateway&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="307" width="1120" height="40" as="geometry" />
@@ -155,43 +167,43 @@
           <mxGeometry x="215" y="860" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="950" width="1045" height="160" as="geometry" />
+          <mxGeometry x="200" y="950" width="1120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-55" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="970" width="310" height="130" as="geometry" />
+          <mxGeometry x="230" y="970" width="410" height="130" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-56" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;公共组件&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="980" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-57" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1030" width="90" height="30" as="geometry" />
+          <mxGeometry x="260" y="1030" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-58" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1030" width="90" height="30" as="geometry" />
+          <mxGeometry x="460" y="1030" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-59" value="&#xa;&lt;div data-tencent-flowchart=&quot;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22xbdengine-system%26lt%3Bdiv%26gt%3B%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB%E3%80%81%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%22355%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="970" width="385" height="130" as="geometry" />
+          <mxGeometry x="805" y="965" width="385" height="130" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-60" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;第三方服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="685" y="980" width="210" height="30" as="geometry" />
+          <mxGeometry x="885" y="975" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-61" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;易仓API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1015" width="90" height="30" as="geometry" />
+          <mxGeometry x="830" y="1010" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-62" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;企业微信API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="737" y="1015" width="90" height="30" as="geometry" />
+          <mxGeometry x="937" y="1010" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-63" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;合思费控API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1015" width="120" height="30" as="geometry" />
+          <mxGeometry x="1040" y="1010" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-64" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;法大大API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1060" width="90" height="30" as="geometry" />
+          <mxGeometry x="830" y="1055" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-65" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;易达云API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="737" y="1060" width="90" height="30" as="geometry" />
+          <mxGeometry x="937" y="1055" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-66" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;易可达(谷仓)API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1060" width="120" height="30" as="geometry" />
+          <mxGeometry x="1040" y="1055" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AcIkoER4r23lt9J2Xqgh-67" value="dubbo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="620" width="60" height="30" as="geometry" />
@@ -202,11 +214,14 @@
         <mxCell id="AcIkoER4r23lt9J2Xqgh-70" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;xbdengine-ai&lt;/span&gt;&lt;div style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;AI创新&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="677" y="810" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AcIkoER4r23lt9J2Xqgh-71" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;Copilot&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-71" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;图生文&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="860" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AcIkoER4r23lt9J2Xqgh-72" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;Agent&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-72" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;文生图&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="860" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcIkoER4r23lt9J2Xqgh-73" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;RAG&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="860" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
