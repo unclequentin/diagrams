@@ -18,6 +18,11 @@
         <mxCell id="u-FvYeE5L0ytRQcUQXWl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u-FvYeE5L0ytRQcUQXWl-3" target="u-FvYeE5L0ytRQcUQXWl-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="u-FvYeE5L0ytRQcUQXWl-93" value="不做过多校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u-FvYeE5L0ytRQcUQXWl-6">
+          <mxGeometry x="-0.225" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u-FvYeE5L0ytRQcUQXWl-3" value="拉单服务 or 接口" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
         </mxCell>
