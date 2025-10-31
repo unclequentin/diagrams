@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
   <diagram name="第 1 页" id="dtp5zd4VmlIiWV8jfIow">
-    <mxGraphModel dx="1369" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,6 +155,9 @@
         </mxCell>
         <mxCell id="jCtrLHmPUwSAJOyJXDS3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B5739D;fillColor=#d5e8d4;opacity=70;strokeWidth=0.5;" edge="1" parent="jCtrLHmPUwSAJOyJXDS3-76" source="DBjCaK1cn_5VWRziiO5A-25" target="jCtrLHmPUwSAJOyJXDS3-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jCtrLHmPUwSAJOyJXDS3-130" value="幂等KEY：po_code + fee_type" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=none;align=left;fontSize=5;opacity=70;" vertex="1" parent="jCtrLHmPUwSAJOyJXDS3-76">
+          <mxGeometry x="248" y="129.84" width="71.14754098360656" height="47.81" as="geometry" />
         </mxCell>
         <mxCell id="jCtrLHmPUwSAJOyJXDS3-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#B5739D;" edge="1" parent="jCtrLHmPUwSAJOyJXDS3-78" source="jCtrLHmPUwSAJOyJXDS3-1" target="jCtrLHmPUwSAJOyJXDS3-6">
           <mxGeometry relative="1" as="geometry" />
